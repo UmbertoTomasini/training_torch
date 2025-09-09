@@ -143,7 +143,7 @@ dmypy.json
 # *.tsv
 
 # Large data directories
-basics/data/
+basics/data/FashionMNIST/raw
 exercises/llama2/llama2_models/
 exercises/llama2/__pycache__/
 
